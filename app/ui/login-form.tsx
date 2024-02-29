@@ -1,4 +1,4 @@
-import { poppins } from '@/app/ui/fonts';
+import { poppins } from '../ui/fonts';
 import {
   UserIcon,
   KeyIcon,

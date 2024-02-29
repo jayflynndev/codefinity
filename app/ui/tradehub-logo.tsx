@@ -1,5 +1,5 @@
 import { ShoppingCartIcon } from '@heroicons/react/24/outline';
-import { rubik } from '@/app/ui/fonts';
+import { rubik } from '../ui/fonts';
 
 export default function TradeHubLogo() {
   return (

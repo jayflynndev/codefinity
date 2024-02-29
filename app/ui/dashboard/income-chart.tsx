@@ -1,6 +1,6 @@
 import { generateYAxis } from '@/app/lib/utils';
 import { CalendarDaysIcon } from '@heroicons/react/24/outline';
-import { poppins } from '@/app/ui/fonts';
+import { poppins } from '../fonts';
 import { Income } from '@/app/lib/definitions';
 
 export default async function IncomeChart() {
